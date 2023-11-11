@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pouyan.asgharian@gmail.com**
 
-- 🤝 Connect with me on <a href="https://linktr.ee/mr_electic" target="blank"> social media </a>
+- 🤝 Connect with me on <a href="https://linktr.ee/mr_electic" target="_blank"> social media </a>
 
 
 ### Blogs posts
