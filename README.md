@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Pouyan </h1>
-<h3>a passionate Robotics engineer based in Canada</h3>
+<h1 style="text-align:center">Hi 👋, I'm Pouyan </h1>
+<h3 style="text-align:center">a passionate Robotics engineer based in Canada</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdjYTVwZGNpcmVzcnQ3enk2eGpkNGFkcm4yY3Y0ZW1vanF3cGowciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx0Ploq51axjKTZzgZ/giphy.gif">
