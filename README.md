@@ -7,7 +7,7 @@
 
 - 🔭 I'm focused on creative robotics and computer vision
 
-- I have a Persian podcast on robotics & AI [Robo Tik](https://www.robotik-podcast.website/)
+- :microphone: I have a Persian podcast on robotics & AI [Robo Tik](https://www.robotik-podcast.website/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@pouyan-asg)
 
