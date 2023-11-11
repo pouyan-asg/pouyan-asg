@@ -7,6 +7,8 @@
 
 - 🔭 I'm focused on creative robotics and computer vision
 
+- I have a Persian podcast on robotics & AI [Robo Tik](https://www.robotik-podcast.website/)
+
 - 📝 I regularly write articles on [Medium](https://medium.com/@pouyan-asg)
 
 - 🤝 Available for project collaborations in robotics.
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > Connect with me 🤝 </h3>
 
 <p align="center">
 
