@@ -2,7 +2,7 @@
 <h3 align="center">a passionate Robotics engineer based in Canada</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRldzBtc3d6aXY5YWZ2Z3Frank1aGRkdmJ6dG8xanZhb282MXR6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXcAHfULt5Wv3G/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRldzBtc3d6aXY5YWZ2Z3Frank1aGRkdmJ6dG8xanZhb282MXR6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXcAHfULt5Wv3G/giphy-downsized.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
