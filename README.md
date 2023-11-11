@@ -2,7 +2,7 @@
 <h3 align="center">a passionate Robotics engineer based in Canada</h3>
 
 <a target="_blank" align="center">
-  <img align="right" height="150" width="225" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdjYTVwZGNpcmVzcnQ3enk2eGpkNGFkcm4yY3Y0ZW1vanF3cGowciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx0Ploq51axjKTZzgZ/giphy.gif">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdjYTVwZGNpcmVzcnQ3enk2eGpkNGFkcm4yY3Y0ZW1vanF3cGowciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx0Ploq51axjKTZzgZ/giphy.gif">
 </a>
 
 - 🔭 I'm focused on creative robotics and computer vision
