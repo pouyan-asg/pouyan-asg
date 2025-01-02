@@ -15,4 +15,4 @@
 
 - 📫 You can reach me at: **pouyan.asgharian@yahoo.com**
 
-- 🤝 Connect with me on <a href="https://linktr.ee/mr_electic" target="_blank"> social media </a>
+- 🤝 Connect with me on <a href="https://linktr.ee/pouyan_asgharian" target="_blank"> social media </a>
