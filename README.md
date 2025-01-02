@@ -7,12 +7,12 @@
 
 - 🔭 I've focused on automation and computer vision
 
-- :microphone: I host a Persian podcast on robotics & AI [Robo Tik](https://rss.com/podcasts/robo-tik/)
+- :microphone: I host a Persian podcast on robotics and AI called [Robo Tik](https://rss.com/podcasts/robo-tik/)
 
 - 📝 I regularly publish articles on [Medium](https://medium.com/@pouyan-asg)
 
 - 🤝 I am open to project collaborations in robotics
 
-- 📫 How to reach me **pouyan.asgharian@yahoo.com**
+- 📫 You can reach me at: **pouyan.asgharian@yahoo.com**
 
 - 🤝 Connect with me on <a href="https://linktr.ee/mr_electic" target="_blank"> social media </a>
