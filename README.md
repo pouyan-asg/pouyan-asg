@@ -7,7 +7,7 @@
 
 - 🔭 I've focused on automation and computer vision
 
-- :microphone: I host a Persian podcast on robotics & AI [Robo Tik](https://www.robotik-podcast.website/)
+- :microphone: I host a Persian podcast on robotics & AI [Robo Tik](https://rss.com/podcasts/robo-tik/)
 
 - 📝 I regularly publish articles on [Medium](https://medium.com/@pouyan-asg)
 
