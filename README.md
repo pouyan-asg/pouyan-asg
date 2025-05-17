@@ -13,6 +13,3 @@
 
 ### 🔬 What I’m Working On
 I’m building intuitive robot learning systems for lab automation — combining robotic arms, computer vision, and human-in-the-loop imitation learning to enable non-experts to teach robots real lab tasks with ease.
-
-![Pouyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouyan-asg&show_icons=true&theme=radical)
-
