@@ -12,4 +12,4 @@
 - 📬 Reach me at: [pouyan.asgharian@ieee.org](mailto:pouyan.asgharian@ieee.org)
 
 ### 🔬 What I’m Working On
-I’m researching intuitive robot learning systems by combining robotic arms, computer vision, and human-in-the-loop techniques.
+I research intuitive robot learning systems by integrating robotic arms, computer vision, and human-in-the-loop techniques.
