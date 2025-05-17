@@ -12,4 +12,4 @@
 - 📬 Reach me at: [pouyan.asgharian@ieee.org](mailto:pouyan.asgharian@ieee.org)
 
 ### 🔬 What I’m Working On
-I’m building intuitive robot learning systems for lab automation — combining robotic arms, computer vision, and human-in-the-loop imitation learning to enable non-experts to teach robots real lab tasks with ease.
+I’m researching intuitive robot learning systems — combining robotic arm, vision, and human-in-the-loop techniques to make task teaching more accessible in real-world environments.
