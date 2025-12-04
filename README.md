@@ -7,7 +7,7 @@
 
 - 🤖 PhD candidate in Robotics at Université de Sherbrooke (UdeS)   
 - 🎙️ Host of Persian podcast on AI & Robotics: [Robo Tik](https://rss.com/podcasts/robo-tik/)  
-- 📝 I share thoughts on my [Blog]([https://www.pouyanasgharian.com/blog/])  
+- 📝 I share thoughts on my [Blog](https://www.pouyanasgharian.com/blog/)  
 - 🤝 Open to collaboration in robotics projects  
 - 📬 Reach me at: [pouyan.asgharian@ieee.org](mailto:pouyan.asgharian@ieee.org)
 
