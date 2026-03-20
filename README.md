@@ -6,7 +6,7 @@
 </a> -->
 
 - 🤖 Robotics Developer | Applied Machine Learning
-- 🔧 Designing robotic automation systems combining manipulation, control, computer vision, and human-in-the-loop techniques  
+<!-- - 🔧 Designing robotic automation systems combining manipulation, control, computer vision, and human-in-the-loop techniques  -->
 - 🎙️ Host of AI & Robotics podcast: [Robo Tik](https://rss.com/podcasts/robo-tik/)  
 - 📝 Sharing insights on my [Blog](https://www.pouyanasgharian.com/blog/)  
 - 🤝 Open to collaboration in robotics & automation projects 
